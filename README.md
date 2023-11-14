@@ -26,7 +26,7 @@
 
 ## Why CPD?
 
-Change Point Detection (CPD) in time series data is a critical technique used to identify points where the statistical properties of a dataset change significantly. This project focuses on detecting significant shifts in the closing prices of Microsoft Corporation (MSFT) stock. Such analysis is instrumental for investors and analysts in understanding critical shifts in stock behavior, informing investment strategies, and assessing market risks.
+Change Point Detection (CPD) in time series data is a critical technique used to identify points where the statistical properties of a dataset change significantly. This project focuses on detecting significant shifts in the closing prices of Microsoft Corporation (MSFT) stock. Such analysis is instrumental for investors and analysts in understanding critical shifts in stock behavior, informing investment strategies, and assessing market risks. For more information about this method, visit the following cite: https://en.wikipedia.org/wiki/Change_detection
 
 ## Data Source
 
@@ -47,7 +47,19 @@ The analysis is performed on monthly data, providing insights into the stock's p
 Several methods are employed for change point detection, each with its unique approach:
 
 - **Binary Segmentation**: For quick and effective analysis of change points.
+  <p align="center">
+  <!-- Replace 'image_url' with the actual URL of your image -->
+  <img src="msft.png" alt="Microsoft Change Point Detection">
+</p>
 - **Kernel Change Method (RBF)**: To detect non-linear patterns and subtle shifts.
+<p align="center">
+  <!-- Replace 'image_url' with the actual URL of your image -->
+  <img src="msft.png" alt="Microsoft Change Point Detection">
+</p>
 - **Bottom-Up Algorithm**: Ideal when the exact number of change points is unknown.
+<p align="center">
+  <!-- Replace 'image_url' with the actual URL of your image -->
+  <img src="msft.png" alt="Microsoft Change Point Detection">
+</p>
 - **PELT Algorithm**: Efficient for large datasets,
 
