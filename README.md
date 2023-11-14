@@ -23,7 +23,6 @@
 - [Tech Stack](#tech-stack)
 - [Authors](#authors)
 - [Project Documentation](#project-documentation)
-- [SQL Code](#sql-code)
 
 ## Why CPD?
 
@@ -31,7 +30,7 @@ Change Point Detection (CPD) in time series data is a critical technique used to
 
 ## Data Source
 
-The data for this project is sourced from historical stock market data of Microsoft Corporation, available on financial platforms like Yahoo Finance. This dataset includes:
+The data for this project is sourced from historical stock market data of Microsoft Corporation, available on financial platforms like Yahoo Finance (Mothly filter 5 year lookback). This dataset includes:
 
 - **Date**: The date for each data entry.
 - **Open**: Opening stock price.
