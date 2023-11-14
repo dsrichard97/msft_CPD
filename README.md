@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="image_url" alt="Microsoft Change Point Detection">
+  <img src="msft.png" alt="Microsoft Change Point Detection">
 </p>
 
 <p align="center">
