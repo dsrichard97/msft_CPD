@@ -49,17 +49,20 @@ Several methods are employed for change point detection, each with its unique ap
 - **Binary Segmentation**: For quick and effective analysis of change points.
   <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="msft.png" alt="Microsoft Change Point Detection">
+  <img src="binseg.png" alt="Microsoft Change Point Detection">
 </p>
 - **Kernel Change Method (RBF)**: To detect non-linear patterns and subtle shifts.
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="msft.png" alt="Microsoft Change Point Detection">
+  <img src="kern.png" alt="Microsoft Change Point Detection">
 </p>
 - **Bottom-Up Algorithm**: Ideal when the exact number of change points is unknown.
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="msft.png" alt="Microsoft Change Point Detection">
+  <img src="bottomup.png" alt="Microsoft Change Point Detection">
 </p>
 - **PELT Algorithm**: Efficient for large datasets,
-
+<p align="center">
+  <!-- Replace 'image_url' with the actual URL of your image -->
+  <img src="pelt.png" alt="Microsoft Change Point Detection">
+</p>
