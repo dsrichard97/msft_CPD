@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Financial_Analysis-Trends-red" alt="Financial Analysis">
   <img src="https://img.shields.io/badge/STAT-Time_Series-blue" alt="Time Series">
   <img src="https://img.shields.io/badge/Python-Pandas-green" alt="Pandas">
+  <img src="https://img.shields.io/badge/Python-Ruptures-orange" alt="Ruptures">
   <a href="https://github.com/ellerbrock/open-source-badges/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
   </a>
