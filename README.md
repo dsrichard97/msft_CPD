@@ -110,7 +110,11 @@ Several methods are employed for change point detection, each with its unique ap
 - Enhanced risk assessment capabilities by pinpointing critical changes in the stock's performance.
 
 **Visualizations:**
-For Tableau Visualizations click -> [Here](https://public.tableau.com/views/MicrosoftMonthlyPrice/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[![Tableau Visualization of Microsoft Monthly Price](tab.png)](https://public.tableau.com/views/MicrosoftMonthlyPrice/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+*Click on the image to see the interactive Tableau dashboard.*
+
 - Change points were clearly illustrated using Matplotlib, offering an intuitive understanding of the data.
 - Graphs depicted the relationship between stock price movements and detected change points.
 
