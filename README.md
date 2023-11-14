@@ -20,8 +20,7 @@
 - [Why CPD - Change Point Detection](#why-cpd)
 - [Data Source](#data-source)
 - [Methods](#methods)
-- [Tech Stack](#tech-stack)
-- [Authors](#authors)
+- [Langauge and Library](#Library-used)
 - [Project Documentation](#project-documentation)
 
 ## Why CPD?
@@ -69,3 +68,21 @@ Several methods are employed for change point detection, each with its unique ap
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="pelt.png" alt="Microsoft Change Point Detection">
 </p>
+
+
+## Library-used
+**Language and Libraries:**
+
+- **Python:** Primary programming language for data analysis and algorithm implementation.
+- **Ruptures:** A Python library specialized in change point detection in time series data. [Ruptures Documentation](https://centre-borelli.github.io/ruptures-docs/)
+- **Pandas:** Used for data manipulation and analysis, particularly for handling the stock data. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- **Matplotlib:** A plotting library for Python, utilized for visualizing the detected change points in the data. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+**Algorithms Implemented:**
+
+- **Binary Segmentation:** Efficient for large datasets, balancing accuracy and computational speed.
+- **Kernel Change (RBF):** Captures non-linear relationships, ideal for complex data patterns.
+- **Bottom Up:** Suitable for situations with uncertain number of change points, optimizes based on data characteristics.
+- **PELT:** Optimal for large datasets, offering precision in change point detection.
+
+
