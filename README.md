@@ -21,7 +21,7 @@
 - [Why CPD - Change Point Detection](#why-cpd)
 - [Data Source](#data-source)
 - [Methods](#methods)
-- [Langauge and Library](#Library-used)
+- [Library](#Library-used)
 - [Project Documentation](#project-documentation)
 
 ## Why CPD?
@@ -86,4 +86,28 @@ Several methods are employed for change point detection, each with its unique ap
 - **Bottom Up:** Suitable for situations with uncertain number of change points, optimizes based on data characteristics.
 - **PELT:** Optimal for large datasets, offering precision in change point detection.
 
+## Project-documentation
+**Key Findings:**
+
+- Identified significant shifts in Microsoft Corporation's stock closing prices, crucial for financial analysis.
+- Detected change points correlated with major market events, including earnings reports and macroeconomic changes.
+
+**Analysis Insights:**
+
+- Observed patterns such as trend shifts from bullish to bearish and vice versa.
+- Identified periods of high and low volatility, providing insights into market dynamics.
+
+**Impact:**
+
+- The results contribute to a deeper understanding of stock market behavior, aiding in informed investment strategies.
+- Enhanced risk assessment capabilities by pinpointing critical changes in the stock's performance.
+
+**Visualizations:**
+
+- Change points were clearly illustrated using Matplotlib, offering an intuitive understanding of the data.
+- Graphs depicted the relationship between stock price movements and detected change points.
+
+### Conclusion
+
+This project highlights the effectiveness of Python and the Ruptures library in analyzing time series data. The ability to detect and visualize change points in stock price data not only enriches financial analysis but also provides basic understanding.
 
