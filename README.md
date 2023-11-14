@@ -51,16 +51,19 @@ Several methods are employed for change point detection, each with its unique ap
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="binseg.png" alt="Microsoft Change Point Detection">
 </p>
+
 - **Kernel Change Method (RBF)**: To detect non-linear patterns and subtle shifts.
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="kern.png" alt="Microsoft Change Point Detection">
 </p>
+
 - **Bottom-Up Algorithm**: Ideal when the exact number of change points is unknown.
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="bottomup.png" alt="Microsoft Change Point Detection">
 </p>
+
 - **PELT Algorithm**: Efficient for large datasets,
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
