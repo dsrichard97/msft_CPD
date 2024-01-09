@@ -37,6 +37,10 @@ Change Point Detection (CPD) is an essential method in time series analysis, use
 
 ## Data Source
 
+![YahooData](https://github.com/dsrichard97/msft_CPD/blob/main/msf.gif)
+
+
+
 The dataset utilized in this project is derived from the historical stock market data of Microsoft Corporation. This data is publicly accessible on financial platforms such as Yahoo Finance, specifically using a 5-year lookback with a monthly filter. The dataset encompasses several key variables that are crucial for stock price analysis::
 
 - **Date**: Indicates the specific date for each data point in the dataset.
