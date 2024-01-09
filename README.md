@@ -53,25 +53,29 @@ This comprehensive data set provides a foundation for analyzing trends, fluctuat
 
 Several methods are employed for change point detection, each with its unique approach:
 
-- **Binary Segmentation**: For quick and effective analysis of change points.
+- **Binary Segmentation**: Binary Segmentation is utilized as a method for identifying change points in time series data, such as stock prices. This technique is known for its speed and effectiveness in analyzing data for potential change points.
+  
   <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="binseg.png" alt="Microsoft Change Point Detection">
 </p>
 
-- **Kernel Change Method (RBF)**: To detect non-linear patterns and subtle shifts.
+- **Kernel Change Method (RBF)**: The Kernel Change Method using the Radial Basis Function (RBF) is employed to identify change points in the stock price data. This method is particularly effective for detecting non-linear patterns and subtle shifts in time series data, which are common characteristics in financial markets. The RBF kernel is a powerful tool for this purpose due to its ability to capture complex, non-linear relationships within the data.
+
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="kern.png" alt="Microsoft Change Point Detection">
 </p>
 
-- **Bottom-Up Algorithm**: Ideal when the exact number of change points is unknown.
+- **Bottom-Up Algorithm**: The Bottom-Up Algorithm is an effective approach used in this project, particularly suitable when the exact number of change points in a time series is unknown. This algorithm is widely recognized for its efficiency in analyzing sequences where change points are not predetermined or evident.
+  
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="bottomup.png" alt="Microsoft Change Point Detection">
 </p>
 
-- **PELT Algorithm**: Efficient for large datasets,
+- **PELT Algorithm**: The Pruned Exact Linear Time (PELT) Algorithm is employed, particularly noted for its efficiency in handling large datasets. PELT is a state-of-the-art change point detection method that is well-suited for extensive time series data, such as stock market data.
+  
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
   <img src="pelt.png" alt="Microsoft Change Point Detection">
