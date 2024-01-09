@@ -132,7 +132,7 @@ Overall, this project has provided valuable insights into the behavior of Micros
 
 -  [Tableau](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
 -  [Python Code](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
--  [High Level Overview](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
+-  [High Level Overview](https://github.com/dsrichard97/msft_CPD/blob/main/micro.png)
 -  [PowerPoint](https://github.com/dsrichard97/msft_CPD/blob/main/msft.pdf)
 
 
