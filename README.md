@@ -121,7 +121,7 @@ Several methods are employed for change point detection, each with its unique ap
 
 - **Improved Risk Assessment:** By pinpointing critical changes in the stock's performance, the analysis enhances the ability to assess risks. Recognizing these change points aids in predicting potential market shifts and understanding the stock's reaction to various stimuli, thus facilitating more effective risk management.
 
-Overall, this project has provided valuable insights into the behavior of Microsoft Corporation's stock, underscoring the importance of change point detection in financial analysis and its practical implications for investment and risk management strategies.
+Overall, this project has provided valuable insights into the behavior of Microsoft Corporation's stock, underscoring the importance of change point detection in financial analysis and its practical implications for investment and risk management strategies.**Next, is to change into an API that changes in real time the data.**
 
 **Visualizations:**
 
