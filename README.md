@@ -28,26 +28,26 @@
 - [Project Documentation](#project-documentation)
 
 ## Introduction
-In this project, I delve into the world of financial time series analysis by focusing on change point detection in Microsoft Corporation's stock prices. The motivation behind this project stems from the need to understand and predict stock market behaviors, crucial for making informed investment decisions.
+This project explores the realm of financial time series analysis, with a specific emphasis on detecting change points in the stock prices of Microsoft Corporation. The impetus for this investigation arises from the necessity to comprehend and forecast stock market trends, a fundamental aspect for informed investment decision-making.
 
 
 ## Why CPD?
 
-Change Point Detection (CPD) in time series data is a critical technique used to identify points where the statistical properties of a dataset change significantly. This project focuses on detecting significant shifts in the closing prices of Microsoft Corporation (MSFT) stock. Such analysis is instrumental for investors and analysts in understanding critical shifts in stock behavior, informing investment strategies, and assessing market risks. For more information about this method, visit the following cite: https://en.wikipedia.org/wiki/Change_detection
+Change Point Detection (CPD) is an essential method in time series analysis, used for pinpointing moments when a dataset undergoes significant statistical alterations. This project zeroes in on identifying notable changes in the closing prices of Microsoft Corporation (MSFT) stock. Such insights are invaluable for investors and market analysts, as they illuminate key shifts in stock performance. This knowledge aids in formulating investment strategies and in evaluating market risks. For a more comprehensive understanding of CPD, further information can be accessed at: https://en.wikipedia.org/wiki/Change_detection.
 
 ## Data Source
 
-The data for this project is sourced from historical stock market data of Microsoft Corporation, available on financial platforms like Yahoo Finance (Mothly filter 5 year lookback). This dataset includes:
+The dataset utilized in this project is derived from the historical stock market data of Microsoft Corporation. This data is publicly accessible on financial platforms such as Yahoo Finance, specifically using a 5-year lookback with a monthly filter. The dataset encompasses several key variables that are crucial for stock price analysis::
 
-- **Date**: The date for each data entry.
-- **Open**: Opening stock price.
-- **High**: Highest stock price during the day.
-- **Low**: Lowest stock price during the day.
-- **Close**: Closing stock price.
-- **Adj Close**: Adjusted closing price accounting for dividends and stock splits.
-- **Volume**: Number of shares traded.
+- **Date**: Indicates the specific date for each data point in the dataset.
+- **Open**: The stock price at the opening of the trading day.
+- **High**: The highest price that the stock reached during the trading day.
+- **Low**: The lowest price of the stock on that day.
+- **Close**: The stock price at the market close.
+- **Adj Close**: The closing price after adjustments for any dividends or stock splits.
+- **Volume**:  Represents the total number of shares of the stock that were traded during the day.
 
-The analysis is performed on monthly data, providing insights into the stock's performance over time.
+This comprehensive data set provides a foundation for analyzing trends, fluctuations, and potential change points in Microsoft Corporation’s stock prices over the specified period.
 
 ## Methods
 
