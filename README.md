@@ -128,9 +128,12 @@ Overall, this project has provided valuable insights into the behavior of Micros
 - Change points were clearly illustrated using Matplotlib, offering an intuitive understanding of the data.
 - Graphs depicted the relationship between stock price movements and detected change points.
 
-### Conclusion
+### Resources
 
-This project highlights the effectiveness of Python and the Ruptures library in analyzing time series data. The ability to detect and visualize change points in stock price data not only enriches financial analysis but also provides basic understanding. For code click -> [Here](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
+-  [Tableau](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
+-  [Python Code](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
+-  [High Level Overview](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
+-  [PowerPoint](https://github.com/dsrichard97/msft_CPD/blob/main/MSFT%20Change%20Point%20Detection.ipynb)
 
 
 
