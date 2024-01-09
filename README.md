@@ -98,20 +98,26 @@ Several methods are employed for change point detection, each with its unique ap
 - **PELT:** Optimal for large datasets, offering precision in change point detection.
 
 ## Project-documentation
-**Key Findings:**
+**Findings:**
 
-- Identified significant shifts in Microsoft Corporation's stock closing prices, crucial for financial analysis.
-- Detected change points correlated with major market events, including earnings reports and macroeconomic changes.
+- **Significant Shifts in Stock Prices:** The analysis successfully identified crucial shifts in the closing prices of Microsoft Corporation's stock. These shifts are fundamental to comprehensive financial analysis and investment decision-making.
+
+- **Correlation with Market Events:** The detected change points exhibited a strong correlation with major market events. These include the release of earnings reports and shifts due to macroeconomic changes, highlighting the sensitivity of the stock to both internal corporate and external economic factors.
+
 
 **Analysis Insights:**
 
-- Observed patterns such as trend shifts from bullish to bearish and vice versa.
-- Identified periods of high and low volatility, providing insights into market dynamics.
+- **Market Trends and Behavior:** The analysis revealed discernible patterns, such as transitions from bullish (upward) trends to bearish (downward) trends and vice versa. This reflects the dynamic nature of the stock market and the responsiveness of Microsoft's stock to varying conditions.
 
-**Impact:**
+- **Volatility Insights:** Periods of high and low volatility were identified throughout the data, offering valuable insights into the stock’s market dynamics. Understanding these periods is key to grasping the stock's behavior under different market conditions.
 
-- The results contribute to a deeper understanding of stock market behavior, aiding in informed investment strategies.
-- Enhanced risk assessment capabilities by pinpointing critical changes in the stock's performance.
+**Impact of the Analysis:**
+
+- **Enhanced Understanding of Market Behavior:** The results of this project contribute significantly to a deeper comprehension of stock market behavior, particularly in relation to Microsoft Corporation. This is vital for investors and analysts in formulating informed investment strategies.
+
+- **Improved Risk Assessment:** By pinpointing critical changes in the stock's performance, the analysis enhances the ability to assess risks. Recognizing these change points aids in predicting potential market shifts and understanding the stock's reaction to various stimuli, thus facilitating more effective risk management.
+
+Overall, this project has provided valuable insights into the behavior of Microsoft Corporation's stock, underscoring the importance of change point detection in financial analysis and its practical implications for investment and risk management strategies.
 
 **Visualizations:**
 
