@@ -125,7 +125,7 @@ Overall, this project has provided valuable insights into the behavior of Micros
 
 **Visualizations:**
 
-[![Tableau Visualization of Microsoft Monthly Price](tab.png)](https://public.tableau.com/views/MicrosoftMonthlyPrice/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Tableau Visualization of Microsoft Monthly Price](msfttab.png)](https://public.tableau.com/views/MSFTTICKER5yrHorizon/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 *Click on the image to see the interactive Tableau dashboard.*
 
