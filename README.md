@@ -61,14 +61,14 @@ Several methods are employed for change point detection, each with its unique ap
   
   <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="binseg1.png" alt="Microsoft Change Point Detection">
+  <img src="binaryseg1.png" alt="Microsoft Change Point Detection">
 </p>
 
 - **Kernel Change Method (RBF)**: The Kernel Change Method using the Radial Basis Function (RBF) is employed to identify change points in the stock price data. This method is particularly effective for detecting non-linear patterns and subtle shifts in time series data, which are common characteristics in financial markets. The RBF kernel is a powerful tool for this purpose due to its ability to capture complex, non-linear relationships within the data.
 
 <p align="center">
   <!-- Replace 'image_url' with the actual URL of your image -->
-  <img src="kern1.png" alt="Microsoft Change Point Detection">
+  <img src="kernel1.png" alt="Microsoft Change Point Detection">
 </p>
 
 - **Bottom-Up Algorithm**: The Bottom-Up Algorithm is an effective approach used in this project, particularly suitable when the exact number of change points in a time series is unknown. This algorithm is widely recognized for its efficiency in analyzing sequences where change points are not predetermined or evident.
