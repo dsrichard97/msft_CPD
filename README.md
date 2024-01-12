@@ -129,8 +129,6 @@ Overall, this project has provided valuable insights into the behavior of Micros
 
 *Click on the image to see the interactive Tableau dashboard.*
 
-- Change points were clearly illustrated using Matplotlib, offering an intuitive understanding of the data.
-- Graphs depicted the relationship between stock price movements and detected change points.
 
 ### Resources
 
