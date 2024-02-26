@@ -1,0 +1,65 @@
+---
+title: "My document"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
+## Introduction
+
+- This is some text
+- As is this
+
+# Title of the Document
+
+## Section 1
+Content for section 1.
+
+## Section 2
+Content for section 2.
+
+## Section 3
+Content for section 3.
+
+## Section 4
+Content for section 4.
+
+```{python}
+#| echo: false
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+# Define the content of each section
+title = "Title of the Document"
+sections = [
+    "Content for section 1.",
+    "Content for section 2.",
+    "Content for section 3.",
+    "Content for section 4.",
+]
+
+# Function to generate Markdown text
+def generate_markdown(title, sections):
+    markdown_text = f"# {title}\n\n"
+    for i, section in enumerate(sections, start=1):
+        markdown_text += f"## Section {i}\n{section}\n\n"
+    return markdown_text
+
+# Generate the Markdown
+markdown_content = generate_markdown(title, sections)
+
+# Save to a .md file
+with open("output.md", "w") as file:
+    file.write(markdown_content)
+
+print("Markdown file generated successfully.")
+```
